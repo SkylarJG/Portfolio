@@ -1,0 +1,92 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+header {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: saddlebrown;
+  background-color: navajowhite;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+header h1 {
+  font-size: 60px;
+  margin-bottom: -25px;
+  margin-top: -5px;
+}
+
+header h4 {
+  font-size: 20px;
+  margin-bottom: -25px;
+}
+
+header h5 {
+  font-size: 17px;
+  margin-bottom: -5px;
+}
+
+a {font-family: Georgia, 'Times New Roman', Times, serif;}
+a:link {color:saddlebrown;}
+a:hover {color: red;}
+a:visited {color: yellow;}
+a:active {color: lightgreen;}
+
+@import url(file:///C:/Users/skyla/OneDrive/Pictures/Screenshots/images%20portfolio/back.jpg);
+
+main {
+  background-image: url(imagesPortfolio/back.jpg);
+}
+
+main img {
+  border-radius: 2%;
+  margin-top: 15px;
+}
+
+main {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: navajowhite;
+  padding-bottom: 10px;
+}
+
+main div {
+  width: 750px;
+  margin: 0;
+}
+
+hr {
+  height: 2px;
+  width: 750px;
+  background-color: navajowhite;
+  
+}
+
+main ul {
+  width: 350px;
+  text-align: left;
+}
+
+main p a {font-family: Georgia, 'Times New Roman', Times, serif;}
+main a:link {color: navajowhite;}
+main a:hover {color: red;}
+main a:visited{color: yellow;}
+main a:active{color: lightgreen;}
+
+footer {
+  background-color: navajowhite;
+  color: saddlebrown;
+  padding: 10px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+
+main ol{
+  width: 350px;
+  text-align: left;
+  
+}
+
