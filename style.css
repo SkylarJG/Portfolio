@@ -3,7 +3,7 @@ html {
   width: 100%;
 }
 
-
+/* Header changes */
 header {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: saddlebrown;
@@ -34,7 +34,7 @@ a:link {color:saddlebrown;}
 a:hover {color: red;}
 a:visited {color: yellow;}
 a:active {color: lightgreen;}
-
+/* End of header changes and starting main chnges */
 @import url(file:///C:/Users/skyla/OneDrive/Pictures/Screenshots/images%20portfolio/back.jpg);
 
 main {
@@ -70,13 +70,13 @@ main ul {
   width: 350px;
   text-align: left;
 }
-
+/* Reach me link */
 main p a {font-family: Georgia, 'Times New Roman', Times, serif;}
 main a:link {color: navajowhite;}
 main a:hover {color: red;}
 main a:visited{color: yellow;}
 main a:active{color: lightgreen;}
-
+/* Footer edits */
 footer {
   text-align: center;
   background-color: navajowhite;
@@ -85,7 +85,7 @@ footer {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 20px;
 }
-
+/*Last second ol added */
 main ol{
   width: 350px;
   text-align: left;
