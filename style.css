@@ -65,6 +65,7 @@ hr {
   
 }
 
+
 main ul {
   width: 350px;
   text-align: left;
@@ -77,6 +78,7 @@ main a:visited{color: yellow;}
 main a:active{color: lightgreen;}
 
 footer {
+  text-align: center;
   background-color: navajowhite;
   color: saddlebrown;
   padding: 10px;
@@ -89,4 +91,3 @@ main ol{
   text-align: left;
   
 }
-
